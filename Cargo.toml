@@ -3,3 +3,7 @@ members = [ "SES","SES_cli"]
 
 resolver = "3"
 
+[dependencies]
+ses_struct_math = { git = "https://github.com/joneseysinno/SES_StructMath.git"}
+ses_geometry = { git = "https://github.com/joneseysinno/SES_Geometry.git"}
+ses_analysis = { git = "https://github.com/joneseysinno/SES_Analysis.git"}

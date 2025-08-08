@@ -1,0 +1,5 @@
+[workspace]
+members = [ "SES","SES_cli"]
+
+resolver = "3"
+
